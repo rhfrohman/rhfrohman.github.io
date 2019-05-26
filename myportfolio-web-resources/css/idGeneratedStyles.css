@@ -230,7 +230,7 @@ span.CharOverride-5 {
 	display: flex;
 	flex-direction: column;
 	border-width: 0;
-	border-right: .35px solid rgb(213, 213, 213);
+	/* border-right: .35px solid rgb(213, 213, 213); */
 
 }
 
@@ -259,17 +259,7 @@ span.CharOverride-5 {
 	/* padding: 15px 0 0 0; */
 }
 
-#featuredProj {
-	background-color: white;
-	width: 980px;
-	height: 900px;
-	align-items: center;
-	position: relative;
-	padding: 40px;
-	top: 85px;
 
-
-}
 
 #fp_row1 {
 	display: flex;
@@ -311,7 +301,7 @@ span.CharOverride-5 {
 	justify-content: space-evenly;
 	height: 35px;
 	position: relative;
-	width: 308px;
+	width: 100%;
 	align-items: center;
 }
 
